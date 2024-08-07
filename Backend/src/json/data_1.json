@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Anthony",
+        "idade": 19,
+        "esta_trabalhando": false,
+        "hobbies": [
+            "Programar",
+            "Correr",
+            "Ler"
+        ],
+        "detalhes_profissao": {
+            "profissão": "Developer",
+            "empresa": "Microsoft"
+        }
+    }
+]
